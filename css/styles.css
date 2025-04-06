@@ -8,9 +8,9 @@ ul {
     list-style-type: none;
 }
 
-#features {
-    display: none;
-  }
+.page-features .page-title {
+    color: #FFFFFF;
+}
   
 
 .link {
